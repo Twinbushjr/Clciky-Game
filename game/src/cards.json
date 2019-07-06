@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rick Sanchez",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Rick_Sanchez.png/revision/latest?cb=20160923150728",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Morty Smith",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/4/41/Morty_Smith.jpg/revision/latest?cb=20170217193441",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Beth Smith",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png/revision/latest?cb=20151204220729",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Summer Smith",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg/revision/latest?cb=20160919183158",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Mr.Poopybutthole",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Squanchy",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/1/16/Squanchy_.png/revision/latest?cb=20160830140218",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Genital Washer",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/7/7f/Genital_Washer.png/revision/latest?cb=20170731161137",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Taint Washer",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/3c/Taint_Washer.png/revision/latest?cb=20170731160946",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Mr.Meeseeks",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/6/6c/MeeseeksHQ.png/revision/latest?cb=20150930232412",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Noob-Noob",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/c/c8/Noob_Noob.png/revision/latest?cb=20180614022930",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Ruben",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/9/98/Ruben.JPG/revision/latest?cb=20140510105457",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Shlaammi",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/b/bb/Shlami.png/revision/latest?cb=20161202151934",
+    "count": 0
+  }
+]
